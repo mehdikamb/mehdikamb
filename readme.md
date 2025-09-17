@@ -1,5 +1,5 @@
 <div align="center">
 
-*homo homini lupus*
+*serius est quam cogitas*
 
 </div>

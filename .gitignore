@@ -1,0 +1,7 @@
+/.gitattributes
+/image
+/LICENSE
+/package.json
+/public
+/server.js
+/setup.js
